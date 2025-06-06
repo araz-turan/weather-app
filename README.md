@@ -1,0 +1,1 @@
+This app is built using the website's API and can display weather information - including sky conditions, current temperature, wind speed, and humidity levels - for any city or location on Earth by specifying the user's desired location.
